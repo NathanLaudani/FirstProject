@@ -1,0 +1,54 @@
+
+@font-family{
+	font-family: Comfortaa;
+	src: url(../fonts/Comfortaa/Comfortaa_Regular.ttf);
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+	background-image: url('images/background1.jpg');
+	background-color: #008DFF;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.t_b {
+	
+	background: rgba(255,255,255, 0.5);
+	margin-left: 15%;
+	margin-right: 15%;
+
+
+	padding: 10%;
+	padding-top: 2%
+}
+
+h1, h2 {
+	text-align: center;
+}
+h1{
+	
+	color: #0B026B;
+	font-size: 72px;
+}
+
+h2{
+	
+	color: #0B026B;
+	
+}
+
+p{
+	font-family: Comfortaa, arial;
+	font-size: 1.4em;
+	color: #0B026B;
+
+
+}
+ .myLinks{
+ 	color: blue;
+ }
+ .myLinks:hover{
+ 	color: green;
+ }
